@@ -1,0 +1,38 @@
+header>p {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+section {
+  display: inline-block;
+  width: 100%;
+}
+
+#right_article {
+  text-align: center;
+  width: 300px;
+  float: right;
+  margin-right: 60px;
+}
+
+#left_block {
+  width: 100px;
+  text-align: center;
+  margin-left: 100px;
+}
+
+#center_article {
+  margin-top: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+#center_article>p {
+  margin: 0px;
+}
+
+.article_header {
+  font-size: 10em;
+  font-weight: bold;
+}
